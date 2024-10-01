@@ -16,8 +16,8 @@
 
 <p> Explore various areas of Calgary by going hiking, engaging in the city events such as lantern events and participating in the Calgary Marathon Event. </p>
 
-<h4>Always on the track to update with new technologies </h4>
-<body> I build computers and keyboards </body>
+<h4> 👾Always on the track to update with new technologies </h4>
+<p> 🧐I build computers and keyboards </p>
 
 <h5> Contact Info</h5>
 <p> Email: finhoang2642@gmail.com </p>
