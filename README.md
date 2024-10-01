@@ -14,18 +14,5 @@
     <p>The five classes that I am taking in SAIT are Visual Design, Digital Media Foundation, Critical Thinking, Web Communications and Technical Communications </p>
 
 <h3> What I'm interest in </h3>
-<body> ✏️  </body>
-
-
-
-
-
-
-
-
-
-
-
-
-
+<body> ✏️ Testing </body>
 </html>
