@@ -11,7 +11,7 @@
     <body> My name is Long, currently a newly UX Designer student studying at SAIT. Figma is my go to favorite software for designing a website. I have experiences with HTML and CSS before commiting to Web Communication class</body>
     <body>The five classes that I am taking in SAIT are Visual Design, Digital Media Foundation, Critical Thinking, Web Communications and Technical Communications </body>
     <br> Linebreak</br>
-<title> Favourite Article </title>
+<body> Favourite Article </body>
 <a href="https://trends.uxdesign.cc"> State of UX in 2024</a>
 
 <h3> What I'm interest in </h3>
