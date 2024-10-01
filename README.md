@@ -4,8 +4,6 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE-edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-
-
     <h1> 👋🏻 Hello there! </h1> 
     <h2> Enrolled in : User Experience Diploma in SAIT<h2>
 
