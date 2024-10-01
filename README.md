@@ -14,8 +14,6 @@
 <h3> What I'm interest in </h3>
 <body> ✏️ Trial and Testing </body>
 
-<p> Explore different parts of Calgary </p>
-<p> Go hiking </p>
-<p> Commit to cardio work out and Calgary Marathon Event</p>
+<p> Explore various areas of Calgary by going hiking, engaging in the city events such as lantern events and participating in the Calgary Marathon Event. </p>
 
 </html>
