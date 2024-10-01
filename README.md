@@ -7,7 +7,7 @@
     <h1> 👋🏻 Hello there! </h1> 
     <h2> Enrolled in : User Experience Diploma in SAIT<h2>
 
-<title> Introduction </title>
+<h1> Introduction </h1>
     <body> I am currently a newly UX Designer student studying at SAIT. Figma is my go to favorite software for designing a website. I have experiences with HTML and CSS before commiting to Web Communication class</body>
     <body>The five classes that I am taking in SAIT are Visual Design, Digital Media Foundation, Critical Thinking, Web Communications and Technical Communications </body>
 
