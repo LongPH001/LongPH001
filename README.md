@@ -13,8 +13,8 @@
 
 <h3> What I'm interest in </h3>
 <body> ✏️ Trial and Testing </body>
-<body> Explore different parts of Calgary </body>
-<body> Go hiking </body>
-<body> Commit to cardio work out and Calgary Marathon Event</body>
+<p> Explore different parts of Calgary </p>
+<p> Go hiking </p>
+<p> Commit to cardio work out and Calgary Marathon Event</p>
 
 </html>
