@@ -16,4 +16,8 @@
 
 <p> Explore various areas of Calgary by going hiking, engaging in the city events such as lantern events and participating in the Calgary Marathon Event. </p>
 
+<h4> Contact Info</h4>
+<p> Email: finhoang2642@gmail.com </p>
+
+
 </html>
