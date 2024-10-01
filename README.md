@@ -12,11 +12,14 @@
     <body>The five classes that I am taking in SAIT are Visual Design, Digital Media Foundation, Critical Thinking, Web Communications and Technical Communications </body>
 
 <h3> What I'm interest in </h3>
-<body> ✏️ Trial and Testing </body>
+<body> ✏️ Trial and Testing HTML </body>
 
 <p> Explore various areas of Calgary by going hiking, engaging in the city events such as lantern events and participating in the Calgary Marathon Event. </p>
 
-<h4> Contact Info</h4>
+<h4>Always on the track to update with new technologies </h4>
+<body> I build computers and keyboards </body>
+
+<h5> Contact Info</h5>
 <p> Email: finhoang2642@gmail.com </p>
 
 
